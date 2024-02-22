@@ -456,8 +456,6 @@ hr {
 
 .advantages {
     background-image: url(/image/application.png);
-    /* width: 1006px;
-    height: 645px; */
     background-repeat: no-repeat;
     flex-wrap: wrap;
 }    
